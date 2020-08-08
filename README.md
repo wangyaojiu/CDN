@@ -1,2 +1,5 @@
 # CDN
-CDN for web
+CDN for website
+
+jsDelivr + Github = CDN free
+
