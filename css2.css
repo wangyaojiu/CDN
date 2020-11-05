@@ -1,0 +1,61 @@
+/* CSS Document */
+*{margin:0; padding:0; }
+body{font:normal 12px/22px "Microsoft YaHei"; width:100%; color:#555; line-height:20px;}
+ul,li{list-style:none;}
+img{ border:0; vertical-align:middle;}
+a{ text-decoration:none; color:#666;  }
+h1, h2, h3, h4, h5{font-weight:normal; font-size:12px;}
+table{border-collapse:collapse; border-spacing:0;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+
+
+#menu{position:fixed; top:0; left:0; width:210px; height:100%; padding-left: 10px; background-color:#FFF; overflow:auto;}
+.title{padding:20px 5px 0px 5px; font-family:"arial"; font-size:12px; color:#666;}
+.title h1{font-size:22px; line-height:30px; margin-bottom: 10px;}
+.nav .navlist{margin-bottom:15px;}
+.nav .navlist ul li{padding-left:15px;}
+.nav .navlist ul li:first-child{padding-left: 0px;font-size: 14px; font-weight: bold;}
+.nav .navlist ul li.current{font-weight: bold;}
+
+#content{height:100%; padding-left:220px; top:0;}
+.container{padding:10px 50px 25px 5px; font-size:12px; line-height:22px;}
+#text{float:left; font-size:12px;}
+#text .txtwrap{padding-right:20px; width:325px;}
+.picture_holder{float:left;}
+.picture_holder img{float:left; margin-right:10px;}
+
+#num{padding-left:10px;}
+.pictab{margin-bottom:10px; line-height:30px;}
+.pictab a{color:#999;}
+
+
+
+a.thickbox { border: none; }
+a.thickbox img { border: 3px solid #fff; margin: 0 6px 9px 0; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
